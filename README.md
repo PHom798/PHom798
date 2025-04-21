@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **AKAR**
 
-- 🌱 I’m currently learning **Flutter,Python,Node.js**
+- 🌱 I’m currently learning **React,Typescript,Flutter,Node.js**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **pathakhom17@gmail.com**
 
