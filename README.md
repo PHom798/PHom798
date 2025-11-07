@@ -25,6 +25,7 @@
 <a href="https://instagram.com/pathak_134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathak_134" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -67,5 +68,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PHom798&theme=tokyonight)
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phom798&show_icons=true&locale=en&layout=compact" alt="phom798" /></p>
