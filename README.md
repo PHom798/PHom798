@@ -5,7 +5,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phom798&label=Profile%20views&color=0e75b6&style=flat" alt="phom798" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PHom798&label=Profile%20views&color=0e75b6&style=flat" alt="phom798" /> </p>
+
 
 - 🔭 I’m currently working on **AKAR**
 
@@ -69,10 +70,20 @@
   </a>
 </p>
 
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PHom798&theme=tokyo-night)
+
+
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PHom798&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=PHom798&theme=tokyonight)
+
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHom798&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phom798&show_icons=true&locale=en&layout=compact" alt="phom798" /></p>
+
