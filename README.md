@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Workspace
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Hom+Bdr.+Pathak;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%8C%9F;Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Hom+Bdr.+Pathak;Mobile+App+Enthusiast+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%8C%9F;Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -62,10 +62,16 @@ const hom = {
 ### Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
 
 </div>
 
@@ -92,7 +98,6 @@ const hom = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hom_Bdr_Pathak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hom-bdr-pathak-01a3bb210)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hombdrpathakkshetri)
 [![Instagram](https://img.shields.io/badge/Instagram-@pathak__134-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pathak_134)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kishan)
 [![Email](https://img.shields.io/badge/Email-pathakhom17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakhom17@gmail.com)
 
 </div>
