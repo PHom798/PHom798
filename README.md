@@ -21,7 +21,7 @@
 
 ```typescript
 const hom = {
-    location: "Irrelevant",
+    location: "Bharatpur-Chitwan, Nepal",
     coordinates: "Wherever the mission takes me. The world adjusts.",
     learning: ["Flutter", "Dart","Mobile Development", "..."],
     funFact: "Understand life!",
