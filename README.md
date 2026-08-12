@@ -21,7 +21,7 @@
 
 ```typescript
 const hom = {
-    location: "Bharatpur-Chitwan, Nepal",
+    location: "Devchuli-16,Rajhar, Nepal",
     coordinates: "Wherever the mission takes me. The world adjusts.",
     learning: ["Flutter", "Dart","Mobile Development", "..."],
     funFact: "Understand life!",
